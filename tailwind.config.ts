@@ -22,7 +22,7 @@ export default {
   darkMode: "class",
   plugins: [heroui({
               themes: {
-                light: {colors:{background:"#FFFFFF"}},
+                light: {},
                 dark: {},
               },
             }),
